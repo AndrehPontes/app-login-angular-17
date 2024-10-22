@@ -1,0 +1,17 @@
+[33mcommit 6fd36da3518a94a64e5dd1e956e8c21c58201766[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Carlos André Batalha Pontes <carlos.pontes@itriad.org.br>
+Date:   Thu Oct 3 00:39:54 2024 -0400
+
+    [APL-02] crating initial struct
+
+[33mcommit 7c046919657f64577032d91a4c1ae2384563f0b4[m
+Author: Carlos André Batalha Pontes <carlos.pontes@itriad.org.br>
+Date:   Wed Oct 2 23:41:03 2024 -0400
+
+    [APL-01] create project
+
+[33mcommit 126c053ceac5953b30be672aa2b55b2e83d14972[m
+Author: Carlos André Batalha Pontes <carlos.pontes@itriad.org.br>
+Date:   Wed Oct 2 23:23:17 2024 -0400
+
+    initial commit
